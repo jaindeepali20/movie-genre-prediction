@@ -13,3 +13,8 @@ java 8
 python 3.7
 
 The folder contains three csv files which are output of the three models. 
+
+Basic Model   -  intermediate_count_vectorizer_logreg.csv
+Tf Idf Model  -  intermediate_TFIDF_logreg
+Custom Features Model   -   intermediate_W2V_logreg
+
