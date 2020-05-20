@@ -7,11 +7,14 @@ Tf Idf Model    87.35%
 Custom Features Model   93.12%
 
 # Setup
-The train and test data are separately uploaded. Replace the file path in the code with the respective paths where these files are stored in your system. 
+The train and test data are separately uploaded. Replace the file path in the code with the respective paths where these files are stored in your system.
+
+# Versions
 Pyspark 2.4
 java 8
 python 3.7
 
+# Outputs
 The folder contains three csv files which are output of the three models. 
 
 Basic Model   -  intermediate_count_vectorizer_logreg.csv
