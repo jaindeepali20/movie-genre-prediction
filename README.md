@@ -11,3 +11,5 @@ The train and test data are separately uploaded. Replace the file path in the co
 Pyspark 2.4
 java 8
 python 3.7
+
+The folder contains three csv files which are output of the three models. 
